@@ -1,0 +1,100 @@
+ [
+      {
+        "id": 1,
+        "property_name": "Cozy Cottage",
+        "location": "123 Main Street, Cityville",
+        "area": 1200,
+        "description": "A charming cottage with a beautiful garden, offering a warm atmosphere for a small family. This home features 2 bedrooms, 1 bathroom, and delightful amenities like a fireplace, garden, and porch.",
+        "property_details": {
+          "property_type": "Single Family Home",
+          "property_status": "For Sale",
+          "year_built": 1990,
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "garage": false,
+          "amenities": ["fireplace", "garden", "porch"]
+        }
+      },
+      {
+        "id": 2,
+        "property_name": "Modern Apartment",
+        "location": "456 Oak Avenue, Urbantown",
+        "area": 900,
+        "description": "Discover urban living in this sleek and modern apartment. With 1 bedroom, 1.5 bathrooms, and amenities like a balcony, gym, and security, it's the perfect city retreat. Available for rent.",
+        "property_details": {
+          "property_type": "Apartment",
+          "property_status": "For Rent",
+          "year_built": 2015,
+          "bedrooms": 1,
+          "bathrooms": 1.5,
+          "garage": true,
+          "amenities": ["balcony", "gym", "security"]
+        }
+      },
+      {
+        "id": 3,
+        "property_name": "Spacious Villa",
+        "location": "789 Hillside Drive, Suburbia",
+        "area": 2500,
+        "description": "Indulge in luxury living with this spacious villa. Boasting 4 bedrooms, 3.5 bathrooms, a pool, and walk-in closets, it's a dream home in a tranquil setting. For sale since 2005.",
+        "property_details": {
+          "property_type": "Luxury Villa",
+          "property_status": "For Sale",
+          "year_built": 2005,
+          "bedrooms": 4,
+          "bathrooms": 3.5,
+          "garage": true,
+          "amenities": ["pool", "deck", "walk-in closets"]
+        }
+      },
+      {
+        "id": 4,
+        "property_name": "Downtown Loft",
+        "location": "101 Loft Street, Metroville",
+        "area": 800,
+        "description": "Experience trendy urban living in this downtown loft. With exposed brick, an open layout, and city views, this 1-bedroom, 1-bathroom loft is available for rent. Built in 2010.",
+        "property_details": {
+          "property_type": "Loft",
+          "property_status": "For Rent",
+          "year_built": 2010,
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "garage": false,
+          "amenities": ["exposed brick", "open layout", "city views"]
+        }
+      },
+      {
+        "id": 5,
+        "property_name": "Rural Retreat",
+        "location": "222 Meadow Lane, Countryside",
+        "area": 1800,
+        "description": "Escape to a peaceful retreat in the countryside. This 3-bedroom, 2-bathroom country home, built in 1995, offers a large yard, nature trails, and a fire pit. Available for sale.",
+        "property_details": {
+          "property_type": "Country Home",
+          "property_status": "For Sale",
+          "year_built": 1995,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "garage": true,
+          "amenities": ["large yard", "nature trails", "fire pit"]
+        }
+      },
+      {
+        "id": 6,
+        "property_name": "Beachfront Bungalow",
+        "location": "333 Ocean Drive, Coastal City",
+        "area": 1500,
+        "description": "Embrace coastal living in this beachfront bungalow. With 2 bedrooms, 2 bathrooms, and breathtaking ocean views, this property is a seaside haven. Built in 1980 and available for sale.",
+        "property_details": {
+          "property_type": "Beachfront Property",
+          "property_status": "For Sale",
+          "year_built": 1980,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "garage": false,
+          "amenities": ["beach access", "sun deck", "oceanfront"]
+        }
+      }
+    ]
+  
+  
